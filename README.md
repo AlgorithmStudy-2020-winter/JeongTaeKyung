@@ -1,1 +1,4 @@
 # JeongTaeKyung
+
+### Using language
+* Python
